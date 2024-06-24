@@ -7,7 +7,9 @@ Italy 2024 trip plan
 - Milano Porta Garibaldi (22:05) -> Bologna Centrale (00:33)
 
 - [x] Train tickets - Omio app @xolario
-- [ ] Book stay in Bologna
+- [x] Book stay in Bologna
+ Piazza della Costituzione 1, Сан-Донато, 40128 Болонья, Италия
+https://www.booking.com/hotel/it/hotel-bologna-fiera.ru.html?label=gen173nr-1FCAEoggI46AdIM1gEaI4BiAEBmAExuAEHyAEN2AEB6AEB-AECiAIBqAIDuALbs-azBsACAdICJDQ4YjY3MDRmLWE1OGQtNDkxZS1iODQ5LTkyYjNhODIwYTE0NdgCBeACAQ&sid=50f89adaaf032a2f6ce1ba94e53608c3&aid=304142
 
 ## July 21th
 
