@@ -24,9 +24,15 @@ Italy 2024 trip plan
 
 ## July 22th
 
+- Check out (12:00)
 - Climbing in Bologna [Climbing gym](https://maps.app.goo.gl/K2d94ZhJB2TgBCs38)
-- Bologna Centrale ->
+- Bologna Centrale -> Trento
 
+- [ ] Buy train tickets
+
+### Stay in Trento [House of Bruno - Only self check-in](https://www.booking.com/hotel/it/house-of-bruno.en-gb.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaI4BiAEBmAEhuAEHyAEN2AEB6AEB-AEMiAIBqAIDuALkz-azBsACAdICJDAxODg0Y2IyLTM0N2UtNGIxOC1hMTZiLWJmYWU5NGVjMDMwMNgCBuACAQ&sid=41bfda7015653d39da5138d54fb30641&checkin=2024-07-22&checkout=2024-07-26&dest_id=-131282&dest_type=city&dist=0&do_availability_check=1&group_adults=2&group_children=0&hp_avform=1&hp_group_set=0&no_rooms=1&origin=hp&sb_price_type=total&src=hotel&type=total&activeTab=main#_)
+
+[14 Via Torre Vanga](https://maps.app.goo.gl/mJnSFz9e6A3JRyL2A)
 
 ## July 23th
 
@@ -35,6 +41,14 @@ Italy 2024 trip plan
 ## July 25th
 
 ## July 26th
+
+- 🕥 Check out (10:30)
+- Trento -> Peschiera del Garda
+- Gardaland
+- Peschiera del Garda -> Milano Centrale
+
+- [ ] Buy train tickets
+- [ ] Find stay in Milano
 
 ## July 27th
 
@@ -53,3 +67,9 @@ Italy 2024 trip plan
 ## August 3rd
 
 ## August 4th
+
+- Check out
+
+- [ ] Check flight information
+- [ ] Find tickets to the airport
+- [ ] Find what to do in Milano
