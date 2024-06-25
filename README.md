@@ -48,7 +48,19 @@ Italy 2024 trip plan
 - Peschiera del Garda -> Milano Centrale
 
 - [ ] Buy train tickets
-- [ ] Find stay in Milano
+- [x] Find stay in Milano
+
+
+### Stay in Milano [Padova 38 - Bilocale di design](https://www.booking.com/hotel/it/padova-38-bilocale-di-design.ru.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaI4BiAEBmAEhuAEHyAEN2AEB6AEB-AEMiAIBqAIDuALq9uuzBsACAdICJDg4ZWFjMTI3LWU1ZTQtNDNlYS1iZTM5LWUzZDA3OTE1Njc1N9gCBuACAQ&sid=41bfda7015653d39da5138d54fb30641&all_sr_blocks=1234312501_395389825_2_0_0&checkin=2024-07-26&checkout=2024-08-04&dest_id=-121726&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=3&highlighted_blocks=1234312501_395389825_2_0_0&hpos=3&matching_block_id=1234312501_395389825_2_0_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=price&sr_pri_blocks=1234312501_395389825_2_0_0__49708&srepoch=1719337786&srpvid=5b0c797ff95100c2&type=total&ucfs=1&activeTab=main#map_closed)
+
+[Via Padova, 38](https://maps.app.goo.gl/T3uG56xP4AhZ3oCy9)
+
+### What to do in Milan
+
+#### Rock climbing
+
+- [Manga Climbing](https://maps.app.goo.gl/LCQprr1m1Y3SFvrz7) (several stops from the stay, bouldering gym)
+- [Solid Climbing Club](https://maps.app.goo.gl/GoKCgaBb9ckGPS4P9) (ikea nearby, lead climbing / bouldering)
 
 ## July 27th
 
@@ -68,8 +80,12 @@ Italy 2024 trip plan
 
 ## August 4th
 
+- Milano Bergamo (20:40) -> Iasi (23:55)
+- Iasi -> Chisinau
+
 - Check out
 
-- [ ] Check flight information
+- [x] Check flight information
 - [ ] Find tickets to the airport
 - [ ] Find what to do in Milano
+- [ ] Find transfer from Iasi to Chisinau
