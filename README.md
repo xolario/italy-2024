@@ -62,6 +62,18 @@ Italy 2024 trip plan
 - [Manga Climbing](https://maps.app.goo.gl/LCQprr1m1Y3SFvrz7) (several stops from the stay, bouldering gym)
 - [Solid Climbing Club](https://maps.app.goo.gl/GoKCgaBb9ckGPS4P9) (ikea nearby, lead climbing / bouldering)
 
+#### Places to eat
+
+- [Pizzeria Positano Milano Carrobio](https://maps.app.goo.gl/LW1C8xg8RaPjJy9S8)
+
+#### Places to visit
+
+- [Piazza degli Affari](https://maps.app.goo.gl/HvgcbnYrYWwn9R4r8)
+
+#### Como day trip
+
+Milano -> Varenna -> Bellagio -> Menaggio -> Varenna -> Milano
+
 ## July 27th
 
 ## July 28th
