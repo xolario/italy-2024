@@ -1,6 +1,44 @@
 # italy-2024
 Italy 2024 trip plan
 
+## Items list
+
+### Suitcase 
+
+- [ ] toiletries (shampoo, face wash, tooth paste, tooth brush)
+- [ ] climbing shoes (2 pers.)
+- [ ] harnesses (2 pers.)
+- [ ] helmets (2 pers.)
+- [ ] rope (60 m.)
+- [ ] backpack
+- [ ] chalk bags (2 pers.) **Fill the bags!** 
+- [ ] quickdraws
+- [ ] carabiners
+- [ ] belay device
+- [ ] gloves (2 pers.)
+- [ ] slings (2 p. 60 cm.)
+
+### @utlagat's backpack
+
+- [ ] passport
+- [ ] wallet
+- [ ] laptop
+- [ ] chargers
+- [ ] vitamins **Add list!**
+
+### @xolario's backpack
+
+- [ ] passport
+- [ ] phone
+- [ ] wallet
+- [ ] iPad
+- [ ] keyboard/mouse or case with keyboard [keyboard](https://darwin.md/ru/klaviatura-i-mysh-logitech-pebble-2-combo-for-mac-besprovodnye-grafitovyi.html)
+- [ ] iPhone/iPad chargers
+- [ ] vitamins (Mg, D)
+- [ ] toiletries (tooth brush, razor, t)
+- [ ] clothes
+- [ ] tape
+
 ## July 20th
 
 - Chisinau (17:00) -> Milano Malpensa (18:40)
