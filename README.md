@@ -3,6 +3,11 @@ Italy 2024 trip plan
 
 ## Items list
 
+### todo
+
+- [ ] buy e-sims
+- [ ] find places to eat in Trento
+
 ### Suitcase 
 
 - [ ] toiletries (shampoo, face wash, tooth paste, tooth brush)
@@ -38,6 +43,7 @@ Italy 2024 trip plan
 - [ ] toiletries (tooth brush, razor, t)
 - [ ] clothes
 - [ ] tape
+- [ ] earplugs for airplane
 
 ## July 20th
 
@@ -50,6 +56,14 @@ Italy 2024 trip plan
 ### Stay in Bologna [UNAHOTELS Bologna Fiera](https://www.booking.com/hotel/it/hotel-bologna-fiera.ru.html?label=gen173nr-1FCAEoggI46AdIM1gEaI4BiAEBmAExuAEHyAEN2AEB6AEB-AECiAIBqAIDuALbs-azBsACAdICJDQ4YjY3MDRmLWE1OGQtNDkxZS1iODQ5LTkyYjNhODIwYTE0NdgCBeACAQ&sid=50f89adaaf032a2f6ce1ba94e53608c3&aid=304142)
 
 [Piazza della Costituzione 1](https://maps.app.goo.gl/91LZ1cLvxYQ8mChVA)
+
+### Food in Bologna
+
+[Source with more info](https://www.schaer.com/en-int/a/best-gf-places-bologna)
+
+- [PAN8](https://maps.app.goo.gl/hodEmiYCGnuc2o7a8) Sandwich shop in the city centre
+- [La Capriata](https://maps.app.goo.gl/kqWv6j1fMR3dVXgH7) Restaurant with pasta ([book table in advance](https://www.lacapriata.it/prenota/))
+- [Regina Sofia](https://maps.app.goo.gl/euQupifiJ7wyEWvk9) Pizza in the city centre (probably need to book a table)
 
 ## July 21th
 
@@ -69,6 +83,8 @@ Italy 2024 trip plan
 - [ ] Buy train tickets
 
 ### Stay in Trento [House of Bruno - Only self check-in](https://www.booking.com/hotel/it/house-of-bruno.en-gb.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaI4BiAEBmAEhuAEHyAEN2AEB6AEB-AEMiAIBqAIDuALkz-azBsACAdICJDAxODg0Y2IyLTM0N2UtNGIxOC1hMTZiLWJmYWU5NGVjMDMwMNgCBuACAQ&sid=41bfda7015653d39da5138d54fb30641&checkin=2024-07-22&checkout=2024-07-26&dest_id=-131282&dest_type=city&dist=0&do_availability_check=1&group_adults=2&group_children=0&hp_avform=1&hp_group_set=0&no_rooms=1&origin=hp&sb_price_type=total&src=hotel&type=total&activeTab=main#_)
+
+### Food in Trento
 
 [14 Via Torre Vanga](https://maps.app.goo.gl/mJnSFz9e6A3JRyL2A)
 
@@ -90,6 +106,15 @@ Italy 2024 trip plan
 
 
 ### Stay in Milano [Padova 38 - Bilocale di design](https://www.booking.com/hotel/it/padova-38-bilocale-di-design.ru.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaI4BiAEBmAEhuAEHyAEN2AEB6AEB-AEMiAIBqAIDuALq9uuzBsACAdICJDg4ZWFjMTI3LWU1ZTQtNDNlYS1iZTM5LWUzZDA3OTE1Njc1N9gCBuACAQ&sid=41bfda7015653d39da5138d54fb30641&all_sr_blocks=1234312501_395389825_2_0_0&checkin=2024-07-26&checkout=2024-08-04&dest_id=-121726&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=3&highlighted_blocks=1234312501_395389825_2_0_0&hpos=3&matching_block_id=1234312501_395389825_2_0_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=price&sr_pri_blocks=1234312501_395389825_2_0_0__49708&srepoch=1719337786&srpvid=5b0c797ff95100c2&type=total&ucfs=1&activeTab=main#map_closed)
+
+### Food in Milano
+
+[Source](https://wheatlesswanderlust.com/gluten-free-milan-restaurants/)
+
+- [Via dalla Spiga Milano](https://maps.app.goo.gl/mapzqTajYC7mqiGD9) (can be a good idea to book in advance)
+- Grom (gelato)
+- [Out of the Box](https://maps.app.goo.gl/TKNt4JEv5PX1QcZE7) (gelato)
+- [Map with all places](https://www.mybfisgf.com/glutenfree-milan)
 
 [Via Padova, 38](https://maps.app.goo.gl/T3uG56xP4AhZ3oCy9)
 
