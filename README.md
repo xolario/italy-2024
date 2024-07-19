@@ -39,6 +39,7 @@ Italy 2024 trip plan
 - [ ] iPad
 - [ ] keyboard/mouse or case with keyboard [keyboard](https://darwin.md/ru/klaviatura-i-mysh-logitech-pebble-2-combo-for-mac-besprovodnye-grafitovyi.html)
 - [ ] iPhone/iPad chargers
+- [ ] earphones
 - [ ] vitamins (Mg, D)
 - [ ] toiletries (tooth brush, razor, t)
 - [ ] clothes
