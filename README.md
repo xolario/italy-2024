@@ -46,6 +46,8 @@ Italy 2024 trip plan
 - [ ] earplugs for airplane
 - [ ] pen
 - [ ] a4 paper **Ask @utlagat**
+- [ ] tooth case
+- [ ] elastic bands 
 
 ## July 20th
 
