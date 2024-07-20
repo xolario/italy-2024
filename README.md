@@ -53,7 +53,6 @@ Italy 2024 trip plan
 ## July 20th
 
 - Chisinau (17:00) -> Milano Malpensa (18:40)
-- Milano Porta Garibaldi (22:05) -> Bologna Centrale (00:33)
 
 - [x] Train tickets - Omio app @xolario
 - [x] Book stay in Bologna
@@ -72,6 +71,7 @@ Italy 2024 trip plan
 
 ## July 21th
 
+- Milano Centrale (12:15) -> Bologna Centrale (15:10)
 - Exploring Bologna
 - Bologna Centrale (17:33) -> Reggio Emilia (18:14)
 - Rammstein Concert (Reggio Emilia) [Location](https://maps.app.goo.gl/4wPwKXaQer8gnisp6)
