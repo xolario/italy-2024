@@ -10,7 +10,7 @@ Italy 2024 trip plan
 
 ### Suitcase 
 
-- [ ] toiletries (shampoo, face wash, tooth paste, tooth brush)
+- [x] toiletries (shampoo, face wash, tooth paste, tooth brush)
 - [ ] climbing shoes (2 pers.)
 - [ ] harnesses (2 pers.)
 - [ ] helmets (2 pers.)
@@ -33,22 +33,22 @@ Italy 2024 trip plan
 
 ### @xolario's backpack
 
-- [ ] passport
+- [x] passport
 - [ ] phone
-- [ ] wallet
+- [x] wallet
 - [ ] iPad
 - [ ] keyboard/mouse or case with keyboard [keyboard](https://darwin.md/ru/klaviatura-i-mysh-logitech-pebble-2-combo-for-mac-besprovodnye-grafitovyi.html)
 - [ ] iPhone/iPad chargers
 - [ ] earphones
 - [ ] vitamins (Mg, D)
 - [ ] toiletries (tooth brush, razor, t)
-- [ ] clothes
-- [ ] tape
-- [ ] earplugs for airplane
-- [ ] pen
+- [x] clothes
+- [x] tape
+- [x] earplugs for airplane
+- [x] pen
 - [ ] a4 paper **Ask @utlagat**
-- [ ] tooth case
-- [ ] elastic bands 
+- [x] tooth case
+- [x] elastic bands 
 
 ## July 20th
 
